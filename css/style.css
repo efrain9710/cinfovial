@@ -1,0 +1,25 @@
+img{
+	width: 100%;
+	height: 20%;
+}
+/*.btn-success{
+	background: #28a745;
+	color: #ffffff;
+	border-radius: 10px;
+}*/
+
+.modulo{
+	width: 100%;
+}
+
+.post .thumb{
+	margin: 10px;
+	width: 40%;
+}
+
+/*.row{
+	padding: 50px;
+	border: solid;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}*/
